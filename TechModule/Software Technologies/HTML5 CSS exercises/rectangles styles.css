@@ -1,0 +1,17 @@
+.outside{
+    border: 2px dotted blue;
+    padding: 10px;
+    border-radius: 10px;
+}
+.middle{
+    border: 1px dashed red;
+    padding: 10px;
+border-radius: 10px;
+}
+.inner{
+    border: 2px solid green;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+
+}

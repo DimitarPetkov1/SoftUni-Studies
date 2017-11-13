@@ -1,0 +1,13 @@
+.properties{
+    line-height: 1.5em;
+    border: 3px #AAAAAA;
+    border-radius: 5px;
+    padding: 5px;
+    background: #CCCCCC;
+}
+.size{
+    font-size: 24pt;
+}
+.background{
+    background: #EEEEEE;
+}

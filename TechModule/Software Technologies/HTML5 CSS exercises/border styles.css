@@ -1,0 +1,30 @@
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.blue{
+    color: blue;
+}
+.outerBlue{
+    border: 2px solid;
+    border-radius: 10px;
+    background: whitesmoke;
+    text-align: center;
+    border-color: blue;
+}
+.outerGreen{
+    border: 2px solid;
+    border-radius: 10px;
+    background: whitesmoke;
+    text-align: center;
+    border-color: green;
+}
+.outerRed{
+    border: 2px solid;
+    border-radius: 10px;
+    background: whitesmoke;
+    text-align: center;
+    border-color: red;
+}
